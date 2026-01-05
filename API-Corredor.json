@@ -1,40 +1,40 @@
 [
-  {
-    "codigo": "J0658",
-    "nombre": "CORREDORES DE SEGUROS FALABELLA S.A.C.",
-    "ejecutivos_comerciales": [
-      {
-        "id": "EC001",
-        "nombre": "Juan Pérez"
-      },
-      {
-        "id": "EC002",
-        "nombre": "María López"
-      }
-    ]
-  },
-  {
-    "codigo": "J0715",
-    "nombre": "A Y L CORREDORES DE SEGUROS S.A.C.",
-    "ejecutivos_comerciales": [
-      {
-        "id": "EC003",
-        "nombre": "Carlos Rivas"
-      }
-    ]
-  },
-  {
-    "codigo": "J0833",
-    "nombre": "ARTHUR J. GALLAGHER PERU CORREDORES DE SEGUROS S.A.",
-    "ejecutivos_comerciales": [
-      {
-        "id": "EC004",
-        "nombre": "Lucía Torres"
-      },
-      {
-        "id": "EC005",
-        "nombre": "Miguel Salazar"
-      }
-    ]
-  }
+    {
+        "codigo": "J0658",
+        "nombre": "CORREDORES DE SEGUROS FALABELLA S.A.C.",
+        "ejecutivos_comerciales": [
+            {
+                "id": "EC001",
+                "nombre": "Juan Pérez"
+            },
+            {
+                "id": "EC002",
+                "nombre": "María López"
+            }
+        ]
+    },
+    {
+        "codigo": "J0715",
+        "nombre": "A Y L CORREDORES DE SEGUROS S.A.C.",
+        "ejecutivos_comerciales": [
+            {
+                "id": "EC003",
+                "nombre": "Carlos Rivas"
+            }
+        ]
+    },
+    {
+        "codigo": "J0833",
+        "nombre": "ARTHUR J. GALLAGHER PERU CORREDORES DE SEGUROS S.A.",
+        "ejecutivos_comerciales": [
+            {
+                "id": "EC004",
+                "nombre": "Lucía Torres"
+            },
+            {
+                "id": "EC005",
+                "nombre": "Miguel Salazar"
+            }
+        ]
+    }
 ]
