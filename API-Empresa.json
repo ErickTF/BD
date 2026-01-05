@@ -3,66 +3,102 @@
     "ruc": "20383045267",
     "razon_social": "Volcan Compañía Minera S.A.A.",
     "corredores": [
-      {"codigo": "J0658", "nombre": "CORREDORES DE SEGUROS FALABELLA S.A.C."},
-      {"codigo": "J0691", "nombre": "ABC CORREDORES DE SEGUROS S.R.L."}
+      {
+        "codigo": "J0658",
+        "nombre": "CORREDORES DE SEGUROS FALABELLA S.A.C."
+      },
+      {
+        "codigo": "J0691",
+        "nombre": "ABC CORREDORES DE SEGUROS S.R.L."
+      }
     ]
   },
   {
     "ruc": "20100079501",
     "razon_social": "Compañía de Minas Buenaventura S.A.A.",
     "corredores": [
-      {"codigo": "J0692", "nombre": "AON AFFINITY PERU CORREDORES DE SEGUROS S.A.C."},
-      {"codigo": "J0715", "nombre": "A Y L CORREDORES DE SEGUROS S.A.C."}
+      {
+        "codigo": "J0692",
+        "nombre": "AON AFFINITY PERU CORREDORES DE SEGUROS S.A.C."
+      },
+      {
+        "codigo": "J0715",
+        "nombre": "A Y L CORREDORES DE SEGUROS S.A.C."
+      }
     ]
   },
   {
     "ruc": "20170072465",
     "razon_social": "Sociedad Minera Cerro Verde S.A.A.",
     "corredores": [
-      {"codigo": "J0767", "nombre": "A & R GROUP CORREDORES DE SEGUROS S.A.C."}
+      {
+        "codigo": "J0767",
+        "nombre": "A & R GROUP CORREDORES DE SEGUROS S.A.C."
+      }
     ]
   },
   {
     "ruc": "20100110513",
     "razon_social": "Nexa Resources Peru S.A.A.",
     "corredores": [
-      {"codigo": "J0807", "nombre": "365 CORREDORES DE SEGUROS S.A.C."}
+      {
+        "codigo": "J0807",
+        "nombre": "365 CORREDORES DE SEGUROS S.A.C."
+      }
     ]
   },
   {
     "ruc": "20100136741",
     "razon_social": "Minsur S.A.",
     "corredores": [
-      {"codigo": "J0817", "nombre": "ASSURANCE CORREDORES DE SEGUROS SOCIEDAD ANONIMA CERRADA"}
+      {
+        "codigo": "J0817",
+        "nombre": "ASSURANCE CORREDORES DE SEGUROS SOCIEDAD ANONIMA CERRADA"
+      }
     ]
   },
   {
     "ruc": "20100147514",
     "razon_social": "Southern Peru Copper Corporation, Sucursal del Perú",
     "corredores": [
-      {"codigo": "J0833", "nombre": "ARTHUR J. GALLAGHER PERU CORREDORES DE SEGUROS S.A."}
+      {
+        "codigo": "J0833",
+        "nombre": "ARTHUR J. GALLAGHER PERU CORREDORES DE SEGUROS S.A."
+      }
     ]
   },
   {
     "ruc": "20330262428",
     "razon_social": "Compañía Minera Antamina S.A.",
     "corredores": [
-      {"codigo": "J0948", "nombre": "EDY SANCHEZ CORREDORES DE SEGUROS EIRL"}
+      {
+        "codigo": "J0948",
+        "nombre": "EDY SANCHEZ CORREDORES DE SEGUROS EIRL"
+      }
     ]
   },
   {
     "ruc": "20137291313",
     "razon_social": "Minera Yanacocha S.R.L.",
     "corredores": [
-      {"codigo": "J0715", "nombre": "A Y L CORREDORES DE SEGUROS S.A.C."},
-      {"codigo": "J0833", "nombre": "ARTHUR J. GALLAGHER PERU CORREDORES DE SEGUROS S.A."}
+      {
+        "codigo": "J0715",
+        "nombre": "A Y L CORREDORES DE SEGUROS S.A.C."
+      },
+      {
+        "codigo": "J0833",
+        "nombre": "ARTHUR J. GALLAGHER PERU CORREDORES DE SEGUROS S.A."
+      }
     ]
   },
   {
     "ruc": "20507828915",
     "razon_social": "Gold Fields La Cima S.A.",
     "corredores": [
-      {"codigo": "J0658", "nombre": "CORREDORES DE SEGUROS FALABELLA S.A.C."}
+      {
+        "codigo": "J0658",
+        "nombre": "CORREDORES DE SEGUROS FALABELLA S.A.C."
+      }
     ]
   },
   {
