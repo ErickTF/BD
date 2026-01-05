@@ -2,6 +2,19 @@
   {
     "ruc": "20383045267",
     "razon_social": "Volcan Compañía Minera S.A.A.",
+    "activo": true,
+    "grupos_economicos": [
+      {
+        "codigo": "GE001",
+        "nombre": "Grupo Volcan"
+      }
+    ],
+    "programas_contratistas": [
+      {
+        "codigo": "PC001",
+        "nombre": "Programa Contratistas Mineros Volcan"
+      }
+    ],
     "corredores": [
       {
         "codigo": "J0658",
@@ -16,6 +29,14 @@
   {
     "ruc": "20100079501",
     "razon_social": "Compañía de Minas Buenaventura S.A.A.",
+    "activo": true,
+    "grupos_economicos": [
+      {
+        "codigo": "GE002",
+        "nombre": "Grupo Buenaventura"
+      }
+    ],
+    "programas_contratistas": [],
     "corredores": [
       {
         "codigo": "J0692",
@@ -30,6 +51,19 @@
   {
     "ruc": "20170072465",
     "razon_social": "Sociedad Minera Cerro Verde S.A.A.",
+    "activo": true,
+    "grupos_economicos": [
+      {
+        "codigo": "GE003",
+        "nombre": "Grupo Freeport-McMoRan"
+      }
+    ],
+    "programas_contratistas": [
+      {
+        "codigo": "PC002",
+        "nombre": "Programa Contratistas Cerro Verde"
+      }
+    ],
     "corredores": [
       {
         "codigo": "J0767",
@@ -40,6 +74,14 @@
   {
     "ruc": "20100110513",
     "razon_social": "Nexa Resources Peru S.A.A.",
+    "activo": true,
+    "grupos_economicos": [
+      {
+        "codigo": "GE004",
+        "nombre": "Grupo Nexa"
+      }
+    ],
+    "programas_contratistas": [],
     "corredores": [
       {
         "codigo": "J0807",
@@ -50,6 +92,14 @@
   {
     "ruc": "20100136741",
     "razon_social": "Minsur S.A.",
+    "activo": true,
+    "grupos_economicos": [
+      {
+        "codigo": "GE005",
+        "nombre": "Grupo Breca"
+      }
+    ],
+    "programas_contratistas": [],
     "corredores": [
       {
         "codigo": "J0817",
@@ -60,6 +110,19 @@
   {
     "ruc": "20100147514",
     "razon_social": "Southern Peru Copper Corporation, Sucursal del Perú",
+    "activo": true,
+    "grupos_economicos": [
+      {
+        "codigo": "GE006",
+        "nombre": "Grupo Southern"
+      }
+    ],
+    "programas_contratistas": [
+      {
+        "codigo": "PC003",
+        "nombre": "Programa Contratistas Southern"
+      }
+    ],
     "corredores": [
       {
         "codigo": "J0833",
@@ -70,6 +133,19 @@
   {
     "ruc": "20330262428",
     "razon_social": "Compañía Minera Antamina S.A.",
+    "activo": true,
+    "grupos_economicos": [
+      {
+        "codigo": "GE007",
+        "nombre": "Grupo Antamina"
+      }
+    ],
+    "programas_contratistas": [
+      {
+        "codigo": "PC004",
+        "nombre": "Programa Contratistas Antamina"
+      }
+    ],
     "corredores": [
       {
         "codigo": "J0948",
@@ -80,6 +156,14 @@
   {
     "ruc": "20137291313",
     "razon_social": "Minera Yanacocha S.R.L.",
+    "activo": true,
+    "grupos_economicos": [
+      {
+        "codigo": "GE008",
+        "nombre": "Grupo Newmont"
+      }
+    ],
+    "programas_contratistas": [],
     "corredores": [
       {
         "codigo": "J0715",
@@ -94,6 +178,14 @@
   {
     "ruc": "20507828915",
     "razon_social": "Gold Fields La Cima S.A.",
+    "activo": true,
+    "grupos_economicos": [
+      {
+        "codigo": "GE009",
+        "nombre": "Grupo Gold Fields"
+      }
+    ],
+    "programas_contratistas": [],
     "corredores": [
       {
         "codigo": "J0658",
@@ -104,6 +196,14 @@
   {
     "ruc": "20538428524",
     "razon_social": "Minera Las Bambas S.A.",
+    "activo": false,
+    "grupos_economicos": [
+      {
+        "codigo": "GE010",
+        "nombre": "Grupo MMG"
+      }
+    ],
+    "programas_contratistas": [],
     "corredores": []
   }
 ]
