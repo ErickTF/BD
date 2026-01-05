@@ -4,11 +4,11 @@
         "nombre": "CORREDORES DE SEGUROS FALABELLA S.A.C.",
         "ejecutivos_comerciales": [
             {
-                "id": "EC001",
+                "codigo": "EC001",
                 "nombre": "Juan Pérez"
             },
             {
-                "id": "EC002",
+                "codigo": "EC002",
                 "nombre": "María López"
             }
         ]
@@ -18,7 +18,7 @@
         "nombre": "A Y L CORREDORES DE SEGUROS S.A.C.",
         "ejecutivos_comerciales": [
             {
-                "id": "EC003",
+                "codigo": "EC003",
                 "nombre": "Carlos Rivas"
             }
         ]
@@ -28,11 +28,11 @@
         "nombre": "ARTHUR J. GALLAGHER PERU CORREDORES DE SEGUROS S.A.",
         "ejecutivos_comerciales": [
             {
-                "id": "EC004",
+                "codigo": "EC004",
                 "nombre": "Lucía Torres"
             },
             {
-                "id": "EC005",
+                "codigo": "EC005",
                 "nombre": "Miguel Salazar"
             }
         ]
